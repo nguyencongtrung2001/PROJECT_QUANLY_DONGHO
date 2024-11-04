@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\LT_XML\\PROJECT_QUANLY_DONGHO\\PROJECT_QUANLY_DONGHO\\PROJECT_QUANLY_DONGHO.csproj": {}
+    "C:\\xml\\PROJECT_QUANLY_DONGHO\\PROJECT_QUANLY_DONGHO\\PROJECT_QUANLY_DONGHO.csproj": {}
   },
   "projects": {
-    "E:\\LT_XML\\PROJECT_QUANLY_DONGHO\\PROJECT_QUANLY_DONGHO\\PROJECT_QUANLY_DONGHO.csproj": {
+    "C:\\xml\\PROJECT_QUANLY_DONGHO\\PROJECT_QUANLY_DONGHO\\PROJECT_QUANLY_DONGHO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\LT_XML\\PROJECT_QUANLY_DONGHO\\PROJECT_QUANLY_DONGHO\\PROJECT_QUANLY_DONGHO.csproj",
+        "projectUniqueName": "C:\\xml\\PROJECT_QUANLY_DONGHO\\PROJECT_QUANLY_DONGHO\\PROJECT_QUANLY_DONGHO.csproj",
         "projectName": "PROJECT_QUANLY_DONGHO",
-        "projectPath": "E:\\LT_XML\\PROJECT_QUANLY_DONGHO\\PROJECT_QUANLY_DONGHO\\PROJECT_QUANLY_DONGHO.csproj",
+        "projectPath": "C:\\xml\\PROJECT_QUANLY_DONGHO\\PROJECT_QUANLY_DONGHO\\PROJECT_QUANLY_DONGHO.csproj",
         "packagesPath": "C:\\Users\\84988\\.nuget\\packages\\",
-        "outputPath": "E:\\LT_XML\\PROJECT_QUANLY_DONGHO\\PROJECT_QUANLY_DONGHO\\obj\\",
+        "outputPath": "C:\\xml\\PROJECT_QUANLY_DONGHO\\PROJECT_QUANLY_DONGHO\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\84988\\AppData\\Roaming\\NuGet\\NuGet.Config",

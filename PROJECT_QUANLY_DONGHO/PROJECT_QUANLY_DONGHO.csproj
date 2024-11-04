@@ -18,7 +18,7 @@
   <ItemGroup>
     <Folder Include="NHI\" />
     <Folder Include="THAI\" />
-    <Folder Include="TRUNG\" />
+    <Folder Include="TRUNG\XML\" />
   </ItemGroup>
   <ItemGroup />
   <ItemGroup Condition="$(VisualStudioVersion) == '17.0'">

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PROJECT_QUANLY_DONGHO")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4eb401f2b0409d1c6ac32842d2bed121dd7f250a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a7ccdd85c0f3d35ee202703d916bdc0e8cabb642")]
 [assembly: System.Reflection.AssemblyProductAttribute("PROJECT_QUANLY_DONGHO")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PROJECT_QUANLY_DONGHO")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
