@@ -50,58 +50,63 @@
             // label2
             // 
             label2.AutoSize = true;
-            label2.Location = new Point(425, 89);
+            label2.Font = new Font("Segoe UI", 12F);
+            label2.Location = new Point(425, 93);
             label2.Name = "label2";
-            label2.Size = new Size(75, 20);
+            label2.Size = new Size(99, 28);
             label2.TabIndex = 1;
             label2.Text = "Tài khoản ";
             // 
             // label3
             // 
             label3.AutoSize = true;
-            label3.Location = new Point(425, 176);
+            label3.Font = new Font("Segoe UI", 12F);
+            label3.Location = new Point(425, 180);
             label3.Name = "label3";
-            label3.Size = new Size(74, 20);
+            label3.Size = new Size(99, 28);
             label3.TabIndex = 2;
             label3.Text = "Mật  khẩu";
             // 
             // checkBox1
             // 
             checkBox1.AutoSize = true;
+            checkBox1.Font = new Font("Segoe UI", 10F);
             checkBox1.Location = new Point(425, 271);
             checkBox1.Name = "checkBox1";
-            checkBox1.Size = new Size(131, 24);
+            checkBox1.Size = new Size(149, 27);
             checkBox1.TabIndex = 3;
             checkBox1.Text = "Hiện mật khẩu ";
             checkBox1.UseVisualStyleBackColor = true;
             // 
             // button1
             // 
-            button1.Location = new Point(519, 344);
+            button1.Location = new Point(515, 344);
             button1.Name = "button1";
-            button1.Size = new Size(94, 29);
+            button1.Size = new Size(118, 46);
             button1.TabIndex = 4;
             button1.Text = "Đăng nhập ";
             button1.UseVisualStyleBackColor = true;
+            button1.Click += button1_Click;
             // 
             // textBox1
             // 
-            textBox1.Location = new Point(425, 121);
+            textBox1.Location = new Point(425, 134);
             textBox1.Name = "textBox1";
             textBox1.Size = new Size(241, 27);
             textBox1.TabIndex = 5;
             // 
             // textBox2
             // 
-            textBox2.Location = new Point(425, 215);
+            textBox2.Location = new Point(425, 222);
             textBox2.Name = "textBox2";
-            textBox2.Size = new Size(125, 27);
+            textBox2.Size = new Size(241, 27);
             textBox2.TabIndex = 6;
             // 
             // Login
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
+            BackgroundImageLayout = ImageLayout.Stretch;
             ClientSize = new Size(800, 450);
             Controls.Add(textBox2);
             Controls.Add(textBox1);
@@ -112,6 +117,7 @@
             Controls.Add(label1);
             Name = "Login";
             Text = "Login";
+            Load += Login_Load;
             ResumeLayout(false);
             PerformLayout();
         }

@@ -10,21 +10,11 @@ using System.Windows.Forms;
 
 namespace PROJECT_QUANLY_DONGHO.TRUNG
 {
-    public partial class NhanVien : Form
+    public partial class TaiKhoan : Form
     {
-        public NhanVien()
+        public TaiKhoan()
         {
             InitializeComponent();
-        }
-
-        private void button4_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void groupBox1_Enter(object sender, EventArgs e)
-        {
-
         }
 
         private void button5_Click(object sender, EventArgs e)
@@ -32,10 +22,11 @@ namespace PROJECT_QUANLY_DONGHO.TRUNG
             Home home = new Home();
             home.Show();
 
+
             this.Hide();
         }
 
-        private void NhanVien_Load(object sender, EventArgs e)
+        private void TaiKhoan_Load(object sender, EventArgs e)
         {
 
         }

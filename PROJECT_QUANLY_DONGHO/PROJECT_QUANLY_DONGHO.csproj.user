@@ -1,7 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <Compile Update="Form1.cs">
+    <Compile Update="Home.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TRUNG\TaiKhoan.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="TRUNG\Login.cs">
@@ -10,5 +13,13 @@
     <Compile Update="TRUNG\NhanVien.cs">
       <SubType>Form</SubType>
     </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Update="TRUNG\XML\Account.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="TRUNG\XML\NhanVien.xsd">
+      <SubType>Designer</SubType>
+    </None>
   </ItemGroup>
 </Project>
