@@ -1,0 +1,17 @@
+D:\QuanLyDongHo\QuanLyDongHo\bin\Debug\net8.0-windows\QuanLyDongHo.exe
+D:\QuanLyDongHo\QuanLyDongHo\bin\Debug\net8.0-windows\QuanLyDongHo.deps.json
+D:\QuanLyDongHo\QuanLyDongHo\bin\Debug\net8.0-windows\QuanLyDongHo.runtimeconfig.json
+D:\QuanLyDongHo\QuanLyDongHo\bin\Debug\net8.0-windows\QuanLyDongHo.dll
+D:\QuanLyDongHo\QuanLyDongHo\bin\Debug\net8.0-windows\QuanLyDongHo.pdb
+D:\QuanLyDongHo\QuanLyDongHo\obj\Debug\net8.0-windows\QuanLyDongHo.Form1.resources
+D:\QuanLyDongHo\QuanLyDongHo\obj\Debug\net8.0-windows\QuanLyDongHo.Properties.Resources.resources
+D:\QuanLyDongHo\QuanLyDongHo\obj\Debug\net8.0-windows\QuanLyDongHo.csproj.GenerateResource.cache
+D:\QuanLyDongHo\QuanLyDongHo\obj\Debug\net8.0-windows\QuanLyDongHo.GeneratedMSBuildEditorConfig.editorconfig
+D:\QuanLyDongHo\QuanLyDongHo\obj\Debug\net8.0-windows\QuanLyDongHo.AssemblyInfoInputs.cache
+D:\QuanLyDongHo\QuanLyDongHo\obj\Debug\net8.0-windows\QuanLyDongHo.AssemblyInfo.cs
+D:\QuanLyDongHo\QuanLyDongHo\obj\Debug\net8.0-windows\QuanLyDongHo.csproj.CoreCompileInputs.cache
+D:\QuanLyDongHo\QuanLyDongHo\obj\Debug\net8.0-windows\QuanLyDongHo.dll
+D:\QuanLyDongHo\QuanLyDongHo\obj\Debug\net8.0-windows\refint\QuanLyDongHo.dll
+D:\QuanLyDongHo\QuanLyDongHo\obj\Debug\net8.0-windows\QuanLyDongHo.pdb
+D:\QuanLyDongHo\QuanLyDongHo\obj\Debug\net8.0-windows\QuanLyDongHo.genruntimeconfig.cache
+D:\QuanLyDongHo\QuanLyDongHo\obj\Debug\net8.0-windows\ref\QuanLyDongHo.dll

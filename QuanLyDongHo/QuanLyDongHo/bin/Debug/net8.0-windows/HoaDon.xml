@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<HoaDons>
+	<HoaDon MaHoadon="HD001" NgayLap="2024-11-01" TongTien="17000000.00" MaNV="NV001" MaKhachHang="KH001" />
+	<HoaDon MaHoadon="HD002" NgayLap="2024-11-02" TongTien="8500000.00" MaNV="NV002" MaKhachHang="KH002" />
+	<HoaDon MaHoadon="HD003" NgayLap="2024-11-03" TongTien="5000000.00" MaNV="NV003" MaKhachHang="KH003" />
+</HoaDons>

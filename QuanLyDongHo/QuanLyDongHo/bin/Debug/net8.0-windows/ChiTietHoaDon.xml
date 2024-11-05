@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ChiTietHoadons>
+	<ChiTietHoadon MaChiTietHoadon="CTHD001" MaHoaDon="HD001" MaSp="SP001" Soluong="1" Dongia="10000000.00" />
+	<ChiTietHoadon MaChiTietHoadon="CTHD002" MaHoaDon="HD001" MaSp="SP003" Soluong="3" Dongia="1500000.00" />
+	<ChiTietHoadon MaChiTietHoadon="CTHD003" MaHoaDon="HD002" MaSp="SP002" Soluong="1" Dongia="8500000.00" />
+	<ChiTietHoadon MaChiTietHoadon="CTHD004" MaHoaDon="HD003" MaSp="SP003" Soluong="2" Dongia="1500000.00" />
+	<ChiTietHoadon MaChiTietHoadon="CTHD005" MaHoaDon="HD003" MaSp="SP004" Soluong="1" Dongia="2000000.00" />
+</ChiTietHoadons>
+
