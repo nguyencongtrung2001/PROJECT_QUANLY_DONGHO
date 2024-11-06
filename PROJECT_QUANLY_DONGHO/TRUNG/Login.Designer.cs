@@ -31,7 +31,7 @@
             label1 = new Label();
             label2 = new Label();
             label3 = new Label();
-            checkBox1 = new CheckBox();
+            chkShowPassword = new CheckBox();
             button1 = new Button();
             textBox1 = new TextBox();
             textBox2 = new TextBox();
@@ -67,16 +67,16 @@
             label3.TabIndex = 2;
             label3.Text = "Mật  khẩu";
             // 
-            // checkBox1
+            // chkShowPassword
             // 
-            checkBox1.AutoSize = true;
-            checkBox1.Font = new Font("Segoe UI", 10F);
-            checkBox1.Location = new Point(425, 271);
-            checkBox1.Name = "checkBox1";
-            checkBox1.Size = new Size(149, 27);
-            checkBox1.TabIndex = 3;
-            checkBox1.Text = "Hiện mật khẩu ";
-            checkBox1.UseVisualStyleBackColor = true;
+            chkShowPassword.AutoSize = true;
+            chkShowPassword.Font = new Font("Segoe UI", 10F);
+            chkShowPassword.Location = new Point(425, 271);
+            chkShowPassword.Name = "chkShowPassword";
+            chkShowPassword.Size = new Size(149, 27);
+            chkShowPassword.TabIndex = 3;
+            chkShowPassword.Text = "Hiện mật khẩu ";
+            chkShowPassword.UseVisualStyleBackColor = true;
             // 
             // button1
             // 
@@ -111,7 +111,7 @@
             Controls.Add(textBox2);
             Controls.Add(textBox1);
             Controls.Add(button1);
-            Controls.Add(checkBox1);
+            Controls.Add(chkShowPassword);
             Controls.Add(label3);
             Controls.Add(label2);
             Controls.Add(label1);
@@ -127,7 +127,7 @@
         private Label label1;
         private Label label2;
         private Label label3;
-        private CheckBox checkBox1;
+        private CheckBox chkShowPassword;
         private Button button1;
         private TextBox textBox1;
         private TextBox textBox2;

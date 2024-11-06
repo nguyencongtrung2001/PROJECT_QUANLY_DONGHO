@@ -6,4 +6,21 @@
     xmlns:mstns="http://tempuri.org/NhanVien.xsd"
     xmlns:xs="http://www.w3.org/2001/XMLSchema"
 >
+	<xs:element name="NhanVienList">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="NhanVien" maxOccurs="unbounded">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="MaNV" type="xs:string" />
+							<xs:element name="TenNV" type="xs:string" />
+							<xs:element name="SDT" type="xs:string" />
+							<xs:element name="Email" type="xs:string" minOccurs="0" />
+							<xs:element name="MaTaiKhoan" type="xs:int" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
 </xs:schema>

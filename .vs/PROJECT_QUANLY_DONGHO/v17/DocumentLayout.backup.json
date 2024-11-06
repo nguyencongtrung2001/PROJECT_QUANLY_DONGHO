@@ -1,42 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\xml\\PROJECT_QUANLY_DONGHO\\",
+  "WorkspaceRootPath": "E:\\CUOIKY\\PROJECT_QUANLY_DONGHO\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9026DAB3-2A51-4CA4-916B-CDCEABC99E75}|PROJECT_QUANLY_DONGHO\\PROJECT_QUANLY_DONGHO.csproj|c:\\xml\\project_quanly_dongho\\project_quanly_dongho\\trung\\taikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9026DAB3-2A51-4CA4-916B-CDCEABC99E75}|PROJECT_QUANLY_DONGHO\\PROJECT_QUANLY_DONGHO.csproj|solutionrelative:project_quanly_dongho\\trung\\taikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9026DAB3-2A51-4CA4-916B-CDCEABC99E75}|PROJECT_QUANLY_DONGHO\\PROJECT_QUANLY_DONGHO.csproj|c:\\xml\\project_quanly_dongho\\project_quanly_dongho\\trung\\taikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9026DAB3-2A51-4CA4-916B-CDCEABC99E75}|PROJECT_QUANLY_DONGHO\\PROJECT_QUANLY_DONGHO.csproj|solutionrelative:project_quanly_dongho\\trung\\taikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9026DAB3-2A51-4CA4-916B-CDCEABC99E75}|PROJECT_QUANLY_DONGHO\\PROJECT_QUANLY_DONGHO.csproj|c:\\xml\\project_quanly_dongho\\project_quanly_dongho\\trung\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9026DAB3-2A51-4CA4-916B-CDCEABC99E75}|PROJECT_QUANLY_DONGHO\\PROJECT_QUANLY_DONGHO.csproj|solutionrelative:project_quanly_dongho\\trung\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9026DAB3-2A51-4CA4-916B-CDCEABC99E75}|PROJECT_QUANLY_DONGHO\\PROJECT_QUANLY_DONGHO.csproj|c:\\xml\\project_quanly_dongho\\project_quanly_dongho\\trung\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9026DAB3-2A51-4CA4-916B-CDCEABC99E75}|PROJECT_QUANLY_DONGHO\\PROJECT_QUANLY_DONGHO.csproj|solutionrelative:project_quanly_dongho\\trung\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9026DAB3-2A51-4CA4-916B-CDCEABC99E75}|PROJECT_QUANLY_DONGHO\\PROJECT_QUANLY_DONGHO.csproj|c:\\xml\\project_quanly_dongho\\project_quanly_dongho\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9026DAB3-2A51-4CA4-916B-CDCEABC99E75}|PROJECT_QUANLY_DONGHO\\PROJECT_QUANLY_DONGHO.csproj|solutionrelative:project_quanly_dongho\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9026DAB3-2A51-4CA4-916B-CDCEABC99E75}|PROJECT_QUANLY_DONGHO\\PROJECT_QUANLY_DONGHO.csproj|c:\\xml\\project_quanly_dongho\\project_quanly_dongho\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9026DAB3-2A51-4CA4-916B-CDCEABC99E75}|PROJECT_QUANLY_DONGHO\\PROJECT_QUANLY_DONGHO.csproj|solutionrelative:project_quanly_dongho\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9026DAB3-2A51-4CA4-916B-CDCEABC99E75}|PROJECT_QUANLY_DONGHO\\PROJECT_QUANLY_DONGHO.csproj|c:\\xml\\project_quanly_dongho\\project_quanly_dongho\\trung\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9026DAB3-2A51-4CA4-916B-CDCEABC99E75}|PROJECT_QUANLY_DONGHO\\PROJECT_QUANLY_DONGHO.csproj|e:\\cuoiky\\project_quanly_dongho\\project_quanly_dongho\\trung\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9026DAB3-2A51-4CA4-916B-CDCEABC99E75}|PROJECT_QUANLY_DONGHO\\PROJECT_QUANLY_DONGHO.csproj|solutionrelative:project_quanly_dongho\\trung\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9026DAB3-2A51-4CA4-916B-CDCEABC99E75}|PROJECT_QUANLY_DONGHO\\PROJECT_QUANLY_DONGHO.csproj|C:\\xml\\PROJECT_QUANLY_DONGHO\\project_quanly_dongho\\trung\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{9026DAB3-2A51-4CA4-916B-CDCEABC99E75}|PROJECT_QUANLY_DONGHO\\PROJECT_QUANLY_DONGHO.csproj|E:\\CUOIKY\\PROJECT_QUANLY_DONGHO\\project_quanly_dongho\\trung\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{9026DAB3-2A51-4CA4-916B-CDCEABC99E75}|PROJECT_QUANLY_DONGHO\\PROJECT_QUANLY_DONGHO.csproj|solutionrelative:project_quanly_dongho\\trung\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9026DAB3-2A51-4CA4-916B-CDCEABC99E75}|PROJECT_QUANLY_DONGHO\\PROJECT_QUANLY_DONGHO.csproj|c:\\xml\\project_quanly_dongho\\project_quanly_dongho\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9026DAB3-2A51-4CA4-916B-CDCEABC99E75}|PROJECT_QUANLY_DONGHO\\PROJECT_QUANLY_DONGHO.csproj|solutionrelative:project_quanly_dongho\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9026DAB3-2A51-4CA4-916B-CDCEABC99E75}|PROJECT_QUANLY_DONGHO\\PROJECT_QUANLY_DONGHO.csproj|e:\\cuoiky\\project_quanly_dongho\\project_quanly_dongho\\trung\\xml\\account.xsd||{DEE6CEF9-3BCA-449A-82A6-FC757D6956FB}|",
+      "RelativeMoniker": "D:0:0:{9026DAB3-2A51-4CA4-916B-CDCEABC99E75}|PROJECT_QUANLY_DONGHO\\PROJECT_QUANLY_DONGHO.csproj|solutionrelative:project_quanly_dongho\\trung\\xml\\account.xsd||{DEE6CEF9-3BCA-449A-82A6-FC757D6956FB}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9026DAB3-2A51-4CA4-916B-CDCEABC99E75}|PROJECT_QUANLY_DONGHO\\PROJECT_QUANLY_DONGHO.csproj|e:\\cuoiky\\project_quanly_dongho\\project_quanly_dongho\\trung\\xml\\account.xsd||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9026DAB3-2A51-4CA4-916B-CDCEABC99E75}|PROJECT_QUANLY_DONGHO\\PROJECT_QUANLY_DONGHO.csproj|solutionrelative:project_quanly_dongho\\trung\\xml\\account.xsd||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9026DAB3-2A51-4CA4-916B-CDCEABC99E75}|PROJECT_QUANLY_DONGHO\\PROJECT_QUANLY_DONGHO.csproj|e:\\cuoiky\\project_quanly_dongho\\project_quanly_dongho\\trung\\xml\\nhanvien.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{9026DAB3-2A51-4CA4-916B-CDCEABC99E75}|PROJECT_QUANLY_DONGHO\\PROJECT_QUANLY_DONGHO.csproj|solutionrelative:project_quanly_dongho\\trung\\xml\\nhanvien.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9026DAB3-2A51-4CA4-916B-CDCEABC99E75}|PROJECT_QUANLY_DONGHO\\PROJECT_QUANLY_DONGHO.csproj|e:\\cuoiky\\project_quanly_dongho\\project_quanly_dongho\\trung\\xml\\account.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{9026DAB3-2A51-4CA4-916B-CDCEABC99E75}|PROJECT_QUANLY_DONGHO\\PROJECT_QUANLY_DONGHO.csproj|solutionrelative:project_quanly_dongho\\trung\\xml\\account.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,116 +46,79 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Account.xml",
+              "DocumentMoniker": "E:\\CUOIKY\\PROJECT_QUANLY_DONGHO\\PROJECT_QUANLY_DONGHO\\TRUNG\\XML\\Account.xml",
+              "RelativeDocumentMoniker": "PROJECT_QUANLY_DONGHO\\TRUNG\\XML\\Account.xml",
+              "ToolTip": "E:\\CUOIKY\\PROJECT_QUANLY_DONGHO\\PROJECT_QUANLY_DONGHO\\TRUNG\\XML\\Account.xml",
+              "RelativeToolTip": "PROJECT_QUANLY_DONGHO\\TRUNG\\XML\\Account.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-11-06T14:29:32.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Home.cs",
-              "DocumentMoniker": "C:\\xml\\PROJECT_QUANLY_DONGHO\\PROJECT_QUANLY_DONGHO\\Home.cs",
-              "RelativeDocumentMoniker": "PROJECT_QUANLY_DONGHO\\Home.cs",
-              "ToolTip": "C:\\xml\\PROJECT_QUANLY_DONGHO\\PROJECT_QUANLY_DONGHO\\Home.cs*",
-              "RelativeToolTip": "PROJECT_QUANLY_DONGHO\\Home.cs*",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAlwCIAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T14:26:58.377Z",
+              "Title": "NhanVien.xml",
+              "DocumentMoniker": "E:\\CUOIKY\\PROJECT_QUANLY_DONGHO\\PROJECT_QUANLY_DONGHO\\TRUNG\\XML\\NhanVien.xml",
+              "RelativeDocumentMoniker": "PROJECT_QUANLY_DONGHO\\TRUNG\\XML\\NhanVien.xml",
+              "ToolTip": "E:\\CUOIKY\\PROJECT_QUANLY_DONGHO\\PROJECT_QUANLY_DONGHO\\TRUNG\\XML\\NhanVien.xml",
+              "RelativeToolTip": "PROJECT_QUANLY_DONGHO\\TRUNG\\XML\\NhanVien.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-11-06T14:34:41.219Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "NhanVien.cs [Design]",
-              "DocumentMoniker": "C:\\xml\\PROJECT_QUANLY_DONGHO\\PROJECT_QUANLY_DONGHO\\TRUNG\\NhanVien.cs",
-              "RelativeDocumentMoniker": "PROJECT_QUANLY_DONGHO\\TRUNG\\NhanVien.cs",
-              "ToolTip": "C:\\xml\\PROJECT_QUANLY_DONGHO\\PROJECT_QUANLY_DONGHO\\TRUNG\\NhanVien.cs [Design]*",
-              "RelativeToolTip": "PROJECT_QUANLY_DONGHO\\TRUNG\\NhanVien.cs [Design]*",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T11:06:34.185Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "NhanVien.cs",
-              "DocumentMoniker": "C:\\xml\\PROJECT_QUANLY_DONGHO\\PROJECT_QUANLY_DONGHO\\TRUNG\\NhanVien.cs",
-              "RelativeDocumentMoniker": "PROJECT_QUANLY_DONGHO\\TRUNG\\NhanVien.cs",
-              "ToolTip": "C:\\xml\\PROJECT_QUANLY_DONGHO\\PROJECT_QUANLY_DONGHO\\TRUNG\\NhanVien.cs*",
-              "RelativeToolTip": "PROJECT_QUANLY_DONGHO\\TRUNG\\NhanVien.cs*",
-              "ViewState": "AgIAAA8AAAAAAAAAAAApwCIAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T11:10:35.941Z",
+              "Title": "Account.xsd",
+              "DocumentMoniker": "E:\\CUOIKY\\PROJECT_QUANLY_DONGHO\\PROJECT_QUANLY_DONGHO\\TRUNG\\XML\\Account.xsd",
+              "RelativeDocumentMoniker": "PROJECT_QUANLY_DONGHO\\TRUNG\\XML\\Account.xsd",
+              "ToolTip": "E:\\CUOIKY\\PROJECT_QUANLY_DONGHO\\PROJECT_QUANLY_DONGHO\\TRUNG\\XML\\Account.xsd",
+              "RelativeToolTip": "PROJECT_QUANLY_DONGHO\\TRUNG\\XML\\Account.xsd",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2024-11-06T14:29:30.791Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TaiKhoan.cs [Design]",
-              "DocumentMoniker": "C:\\xml\\PROJECT_QUANLY_DONGHO\\PROJECT_QUANLY_DONGHO\\TRUNG\\TaiKhoan.cs",
-              "RelativeDocumentMoniker": "PROJECT_QUANLY_DONGHO\\TRUNG\\TaiKhoan.cs",
-              "ToolTip": "C:\\xml\\PROJECT_QUANLY_DONGHO\\PROJECT_QUANLY_DONGHO\\TRUNG\\TaiKhoan.cs [Design]*",
-              "RelativeToolTip": "PROJECT_QUANLY_DONGHO\\TRUNG\\TaiKhoan.cs [Design]*",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T13:45:32.232Z",
+              "DocumentIndex": 2,
+              "Title": "Account.xsd [Design]",
+              "DocumentMoniker": "E:\\CUOIKY\\PROJECT_QUANLY_DONGHO\\PROJECT_QUANLY_DONGHO\\TRUNG\\XML\\Account.xsd",
+              "RelativeDocumentMoniker": "PROJECT_QUANLY_DONGHO\\TRUNG\\XML\\Account.xsd",
+              "ToolTip": "E:\\CUOIKY\\PROJECT_QUANLY_DONGHO\\PROJECT_QUANLY_DONGHO\\TRUNG\\XML\\Account.xsd [Design]",
+              "RelativeToolTip": "PROJECT_QUANLY_DONGHO\\TRUNG\\XML\\Account.xsd [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2024-11-06T14:29:29.107Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "TaiKhoan.cs",
-              "DocumentMoniker": "C:\\xml\\PROJECT_QUANLY_DONGHO\\PROJECT_QUANLY_DONGHO\\TRUNG\\TaiKhoan.cs",
-              "RelativeDocumentMoniker": "PROJECT_QUANLY_DONGHO\\TRUNG\\TaiKhoan.cs",
-              "ToolTip": "C:\\xml\\PROJECT_QUANLY_DONGHO\\PROJECT_QUANLY_DONGHO\\TRUNG\\TaiKhoan.cs*",
-              "RelativeToolTip": "PROJECT_QUANLY_DONGHO\\TRUNG\\TaiKhoan.cs*",
-              "ViewState": "AgIAAAUAAAAAAAAAAAApwBkAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T14:30:30.713Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Home.cs [Design]",
-              "DocumentMoniker": "C:\\xml\\PROJECT_QUANLY_DONGHO\\PROJECT_QUANLY_DONGHO\\Home.cs",
-              "RelativeDocumentMoniker": "PROJECT_QUANLY_DONGHO\\Home.cs",
-              "ToolTip": "C:\\xml\\PROJECT_QUANLY_DONGHO\\PROJECT_QUANLY_DONGHO\\Home.cs [Design]*",
-              "RelativeToolTip": "PROJECT_QUANLY_DONGHO\\Home.cs [Design]*",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T14:04:09.069Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "Login.cs",
-              "DocumentMoniker": "C:\\xml\\PROJECT_QUANLY_DONGHO\\PROJECT_QUANLY_DONGHO\\TRUNG\\Login.cs",
+              "DocumentMoniker": "E:\\CUOIKY\\PROJECT_QUANLY_DONGHO\\PROJECT_QUANLY_DONGHO\\TRUNG\\Login.cs",
               "RelativeDocumentMoniker": "PROJECT_QUANLY_DONGHO\\TRUNG\\Login.cs",
-              "ToolTip": "C:\\xml\\PROJECT_QUANLY_DONGHO\\PROJECT_QUANLY_DONGHO\\TRUNG\\Login.cs*",
-              "RelativeToolTip": "PROJECT_QUANLY_DONGHO\\TRUNG\\Login.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAYAAAAAAAAAA==",
+              "ToolTip": "E:\\CUOIKY\\PROJECT_QUANLY_DONGHO\\PROJECT_QUANLY_DONGHO\\TRUNG\\Login.cs",
+              "RelativeToolTip": "PROJECT_QUANLY_DONGHO\\TRUNG\\Login.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAIwEwAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T14:24:36.318Z",
+              "WhenOpened": "2024-11-06T14:24:50.044Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "Login.cs [Design]",
-              "DocumentMoniker": "C:\\xml\\PROJECT_QUANLY_DONGHO\\PROJECT_QUANLY_DONGHO\\TRUNG\\Login.cs",
+              "DocumentMoniker": "E:\\CUOIKY\\PROJECT_QUANLY_DONGHO\\PROJECT_QUANLY_DONGHO\\TRUNG\\Login.cs",
               "RelativeDocumentMoniker": "PROJECT_QUANLY_DONGHO\\TRUNG\\Login.cs",
-              "ToolTip": "C:\\xml\\PROJECT_QUANLY_DONGHO\\PROJECT_QUANLY_DONGHO\\TRUNG\\Login.cs [Design]*",
-              "RelativeToolTip": "PROJECT_QUANLY_DONGHO\\TRUNG\\Login.cs [Design]*",
+              "ToolTip": "E:\\CUOIKY\\PROJECT_QUANLY_DONGHO\\PROJECT_QUANLY_DONGHO\\TRUNG\\Login.cs [Design]",
+              "RelativeToolTip": "PROJECT_QUANLY_DONGHO\\TRUNG\\Login.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-04T10:55:49.94Z",
               "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\xml\\PROJECT_QUANLY_DONGHO\\PROJECT_QUANLY_DONGHO\\Program.cs",
-              "RelativeDocumentMoniker": "PROJECT_QUANLY_DONGHO\\Program.cs",
-              "ToolTip": "C:\\xml\\PROJECT_QUANLY_DONGHO\\PROJECT_QUANLY_DONGHO\\Program.cs",
-              "RelativeToolTip": "PROJECT_QUANLY_DONGHO\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T14:04:31.666Z",
-              "EditorCaption": ""
             }
           ]
         }

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<NhanVienList>
+	<NhanVien>
+		<MaNV>NV01</MaNV>
+		<TenNV>Nguyen Van A</TenNV>
+		<SDT>0123456789</SDT>
+		<Email>nva@example.com</Email>
+		<MaTaiKhoan>1</MaTaiKhoan>
+	</NhanVien>
+	<NhanVien>
+		<MaNV>NV02</MaNV>
+		<TenNV>Tran Thi B</TenNV>
+		<SDT>0987654321</SDT>
+		<Email>ttb@example.com</Email>
+		<MaTaiKhoan>2</MaTaiKhoan>
+	</NhanVien>
+</NhanVienList>

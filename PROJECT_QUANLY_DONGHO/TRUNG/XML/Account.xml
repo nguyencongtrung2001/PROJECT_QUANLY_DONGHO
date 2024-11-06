@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TaiKhoanList>
+	<TaiKhoan>
+		<MaTaiKhoan>1</MaTaiKhoan>
+		<TaiKhoan>admin</TaiKhoan>
+		<MatKhau>123456</MatKhau>
+	</TaiKhoan>
+	<TaiKhoan>
+		<MaTaiKhoan>2</MaTaiKhoan>
+		<TaiKhoan>user01</TaiKhoan>
+		<MatKhau>password01</MatKhau>
+	</TaiKhoan>
+</TaiKhoanList>
+

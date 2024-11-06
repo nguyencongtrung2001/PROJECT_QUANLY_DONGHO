@@ -6,4 +6,19 @@
     xmlns:mstns="http://tempuri.org/Account.xsd"
     xmlns:xs="http://www.w3.org/2001/XMLSchema"
 >
+	<xs:element name="TaiKhoanList">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="TaiKhoan" maxOccurs="unbounded">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="MaTaiKhoan" type="xs:int" />
+							<xs:element name="TaiKhoan" type="xs:string" />
+							<xs:element name="MatKhau" type="xs:string" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
 </xs:schema>
